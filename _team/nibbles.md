@@ -3,7 +3,6 @@ title: "Nibbles"
 date: 2018-12-20T13:44:30+10:00
 image: "images/team/nibbles.jpg"
 jobtitle: "Hug Therapist"
-linkedinurl: ""
 promoted: true
 weight: 3
 ---
