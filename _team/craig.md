@@ -3,7 +3,6 @@ title: "Craig"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/craig.jpg"
 jobtitle: "Hug Experience Specialist"
-linkedinurl: ""
 promoted: true
 weight: 2
 ---
