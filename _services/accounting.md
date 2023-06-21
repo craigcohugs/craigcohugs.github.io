@@ -4,81 +4,32 @@ date: 2018-11-18T12:33:46+10:00
 weight: 1
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+At CraigCo Hugs, we understand the profound impact of human connection, and we believe in the transformative power of a heartfelt embrace. Our Heartwarming Embrace service is thoughtfully designed to provide you with a nurturing and comforting hug that wraps you in a sense of security, warmth, and profound connection.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+## Embrace the Power of Connection
+Our Heartwarming Embrace service is dedicated to creating a moment of pure bliss, where you can experience the deep healing and rejuvenating effects of a genuine and compassionate hug. We recognize that human touch is a fundamental need that brings immense comfort and joy, and our service aims to fulfill that need with utmost care and sincerity.
 
-# Objectives
+## Create Meaningful Connections
+At CraigCo Hugs, we believe that our Heartwarming Embrace service is highly relevant to your emotional well-being and sense of belonging. Through our carefully crafted embraces, we strive to provide a therapeutic experience that uplifts your spirits, reduces stress, and enhances your overall quality of life. The power of human touch in fostering emotional well-being is truly remarkable, and we are here to help you experience its profound benefits.
 
-Financial accounting and financial reporting are often used as synonyms.
+## Genuine and Compassionate Care
+Faithful representation lies at the core of our Heartwarming Embrace service. We understand the significance of an authentic and genuine embrace, and we ensure that every hug we offer is imbued with sincerity, compassion, and care. Our professional and highly skilled team is dedicated to creating an environment where your emotional needs are met with utmost respect and empathy.
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+## Enhancing Your Well-Being
+We strive to enhance the qualitative characteristics of our Heartwarming Embrace service to ensure your utmost satisfaction and well-being.
 
-## Relevance
+## Embracing Comfort and Joy
+Through our Heartwarming Embrace service, we aim to provide a safe space for you to experience the comfort and joy that comes with genuine human connection. Our hugs are designed to uplift your spirits, nurture your emotional well-being, and create moments of pure happiness.
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+## Personalized and Meaningful Experiences
+We believe in the power of individuality, and our Heartwarming Embrace service is tailored to meet your unique needs. Our professional team takes the time to understand your preferences and create personalized experiences that leave a lasting impact on your well-being.
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+## Empathy and Support
+At CraigCo Hugs, we understand that every hug carries a profound emotional weight. We prioritize empathy and support in our Heartwarming Embrace service, ensuring that you feel heard, understood, and comforted. Our team is here to provide a shoulder to lean on and a warm embrace during both challenging and joyous moments.
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+## Timely Comfort and Connection
+We recognize the timeliness of emotional support and connection. Our Heartwarming Embrace service is readily available when you need it most. Whether you're seeking solace, celebrating an achievement, or simply craving a heartwarming moment, our hugs are there to provide the timely comfort and connection you seek.
 
-## Faithful Representation
+##
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
-
-## Enhancing Qualitative Characteristics
-
-### Verifiability
-
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
-
-### Comparability
-
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
-
----
-
-## Statement of cash flows
-
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+Discover the extraordinary benefits of our Heartwarming Embrace service and allow us to wrap you in a comforting and uplifting embrace. Experience the joy of genuine human connection, feel the transformative power of a heartfelt hug, and let CraigCo Hugs fill your world with love, warmth, and profound emotional well-being.
