@@ -1,13 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: CraigCo Hugs
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
-intro_image: "images/illustrations/pointing.svg"
+description: Experience the extraordinary power of human connection with CraigCo Hugs, where heartfelt embraces bring genuine comfort and joy, creating moments that touch your soul and warm your heart.
+intro_image: "images/illustrations/hugging.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# CraigCo Hugs - Wrap Yourself in Comfort
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Experience the extraordinary power of human connection with CraigCo Hugs, where heartfelt embraces bring genuine comfort and joy, creating moments that touch your soul and warm your heart.
