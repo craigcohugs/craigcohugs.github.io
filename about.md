@@ -5,83 +5,23 @@ description: About
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Welcome to CraigCo Hugs, where we believe that hugs have the extraordinary power to heal, uplift, and bring people closer together. Founded in 2023, our mission is to fill the world with warmth, love, and genuine human connection by offering a solution to the lack of hugs that many individuals experience in their daily lives. We are here to spread the transformative magic of hugs, creating a ripple effect of positivity, compassion, and emotional well-being.
 
-![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
+![Accounting Services](/images/about.jpg)
 
-# Objectives
+## Our Mission
+At CraigCo Hugs, our mission is simple yet profound: to fill the world with hugs and cultivate a culture of compassion and connection. We understand that in today's fast-paced and digitally-driven world, genuine human touch and heartfelt embraces can often be overlooked or neglected. Our purpose is to address this void and provide individuals with the opportunity to experience the power of a warm embrace, restoring a sense of connection, comfort, and emotional well-being in their lives.
 
-Financial accounting and financial reporting are often used as synonyms.
+## Bridging the Gap
+In 2023, CraigCo Hugs was born out of the recognition that there is a significant lack of hugs in people's lives, leading to a sense of disconnection and longing for genuine human touch. Our founder, Craig, envisioned a world where no one would have to go without the healing power of a hug. With a passionate desire to make a difference, CraigCo Hugs was established to bridge the gap and bring the comfort of hugs to individuals of all backgrounds and circumstances.
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+## Spreading Warmth and Love
+CraigCo Hugs is driven by the belief that hugs have the incredible ability to spread warmth, love, and understanding. We know that a simple hug can provide solace during challenging times, celebrate joyous occasions, and create a profound sense of connection between individuals. By offering a variety of hug experiences, both in-person and virtual, we aim to touch the lives of people around the world, one embrace at a time.
 
-## Relevance
+## Our Commitment
+At CraigCo Hugs, we are committed to creating a safe, inclusive, and welcoming environment for everyone who seeks the comfort and joy of a hug. We prioritize the well-being and consent of our clients, ensuring that each hug experience is respectful, genuine, and tailored to individual preferences. Our dedicated team of professionals is trained to provide compassionate care, understanding, and support throughout your journey with us.
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+## Join the Hug Movement
+We invite you to join us in our hug movement and experience the transformative power of human touch. Whether you're seeking comfort, celebrating a milestone, or simply longing for a moment of connection, CraigCo Hugs is here to offer you a warm embrace. Together, let's create a world filled with hugs, where love, compassion, and genuine human connection thrive.  
 
-> The ingredients of relevance are the predictive value and confirmatory value.
-
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
-
-## Faithful Representation
-
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
-
-## Enhancing Qualitative Characteristics
-
-### Verifiability
-
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
-
-### Comparability
-
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
-
----
-
-## Statement of cash flows
-
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+At CraigCo Hugs, we are on a heartfelt mission to solve the lack of hugs and spread warmth, love, and connection in the world. Join us in our journey as we strive to make a positive difference in people's lives, one meaningful embrace at a time. Together, let's make the world a warmer and more compassionate place through the transformative power of hugs.

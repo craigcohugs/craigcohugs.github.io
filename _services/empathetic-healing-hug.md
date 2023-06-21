@@ -6,6 +6,8 @@ weight: 3
 
 At CraigCo Hugs, we understand the power of compassion, empathy, and healing touch. Our Empathetic Healing Hug service is thoughtfully crafted to provide a safe and nurturing space where you can experience profound emotional support, comfort, and healing through the transformative power of a heartfelt embrace.
 
+![Accounting Services](/images/hugs/empathetic-healing-hug.jpg)
+
 ## Embrace the Journey of Healing
 Our Empathetic Healing Hug service is dedicated to accompanying you on your journey of healing and emotional well-being. We believe that human touch, combined with genuine empathy, has the ability to soothe the soul, restore inner balance, and ignite a sense of hope. Through our compassionate hugs, we aim to create a sacred space where you can find solace, strength, and the support you need.
 

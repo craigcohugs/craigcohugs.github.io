@@ -6,6 +6,8 @@ weight: 6
 
 At CraigCo Hugs, we understand that physical distance should never hinder the power of human connection and the warmth of a heartfelt embrace. That's why we bring you our Virtual Hug Experience, a unique and immersive way to feel the comfort, love, and support of a hug, even when separated by miles. Through cutting-edge technology and genuine care, we create a virtual space where you can experience the power of a hug, bridging the gap and fostering connection in the digital world.
 
+![Accounting Services](/images/hugs/virtual-hug-experience.jpg)
+
 ## Embrace Across the Miles
 Our Virtual Hug Experience transcends physical barriers to bring you the essence of a real hug, regardless of distance. We believe that love, support, and connection should know no bounds. Through our innovative virtual platform, we create a space where you can feel the warmth of a hug, experience the joy of connection, and share heartfelt moments, no matter where you are in the world.
 

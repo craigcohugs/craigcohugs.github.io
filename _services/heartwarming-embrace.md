@@ -6,6 +6,8 @@ weight: 1
 
 At CraigCo Hugs, we understand the profound impact of human connection, and we believe in the transformative power of a heartfelt embrace. Our Heartwarming Embrace service is thoughtfully designed to provide you with a nurturing and comforting hug that wraps you in a sense of security, warmth, and profound connection.
 
+![Accounting Services](/images/hugs/heartwarming-embrace.jpg)
+
 ## Embrace the Power of Connection
 Our Heartwarming Embrace service is dedicated to creating a moment of pure bliss, where you can experience the deep healing and rejuvenating effects of a genuine and compassionate hug. We recognize that human touch is a fundamental need that brings immense comfort and joy, and our service aims to fulfill that need with utmost care and sincerity.
 

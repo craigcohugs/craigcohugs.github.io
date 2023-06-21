@@ -6,6 +6,8 @@ weight: 4
 
 At CraigCo Hugs, we believe that life's special moments deserve to be celebrated and cherished. Our Celebratory Hug service is designed to add an extra touch of joy, warmth, and shared happiness to your memorable occasions. Whether it's a milestone achievement, a joyous event, or a simple moment of triumph, our heartfelt hugs are here to elevate your celebrations and create lasting memories.
 
+![Accounting Services](/images/hugs/celebratory-hug.jpg)
+
 ## Elevate Your Celebrations
 Our Celebratory Hug service is dedicated to elevating your celebrations to new heights of happiness and connection. We understand the significance of milestones and the power of collective joy. With our carefully crafted hugs, we aim to enhance the celebratory atmosphere, creating a sense of togetherness and love that will make your special moments even more extraordinary.
 

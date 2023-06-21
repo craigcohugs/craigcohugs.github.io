@@ -6,6 +6,8 @@ weight: 2
 
 At CraigCo Hugs, we believe in the power of unity, joy, and shared experiences. Our Joyful Group Hug service is designed to create a heartwarming and uplifting embrace that brings people together in a moment of pure bliss and connection.
 
+![Accounting Services](/images/hugs/joyful-group-hug.jpg)
+
 ## Embrace Unity and Celebration
 Our Joyful Group Hug service is dedicated to fostering unity and celebration among individuals. We understand that coming together in a warm and joyous embrace can create lasting memories and strengthen bonds. Through our carefully orchestrated group hugs, we aim to create an environment where laughter, happiness, and a sense of togetherness thrive.
 
